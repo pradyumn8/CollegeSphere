@@ -7,6 +7,7 @@ import Title from './components/Title/Title'
 import About from './components/About/About'
 import Campus from './components/Campus/Campus'
 import Testimonials from './components/Testimonials/Testimonials'
+import Contact from './components/Contact/Contact'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -23,6 +24,8 @@ function App() {
       <Campus/>
       <Title subTitle='TESTIMONIALS' title='What Students Says'/>
       <Testimonials/>
+      <Title subTitle='Contact Us' title='Get in Touch'/>
+      <Contact/>
     </div>
   </div>
   )
