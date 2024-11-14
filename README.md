@@ -13,12 +13,11 @@ Check out the live demo: [CollegeSphere on Netlify](https://collegesphare.netlif
 - Engaging animations using `framer-motion`.
 
 ## Installation
-
 1. Clone the repository:
 
-   ```bash
+ ```bash
    git clone https://github.com/pradyumn8/CollegeSphere.git   
-    ```
+ ```
 ### Navigate into the project directory
  ```bash
  cd CollegeSphere
