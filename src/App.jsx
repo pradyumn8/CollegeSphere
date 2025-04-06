@@ -19,12 +19,12 @@ function App() {
     <Navbar/>
     <Hero/>
     <div className="container">
-      <Title subTitle='Our Program' title='What We Offer'/>
-      <Programs/>
+      {/* <Title subTitle='Our Services' title='What We Offer'/>
+      <Programs/> */}
       <About setPlayState={setPlayState}/>
-      <Title subTitle='Gallary' title='Campus View'/>
+      <Title subTitle='Gallary' title='Reading Areas'/>
       <Campus/>
-      <Title subTitle='TESTIMONIALS' title='What Students Says'/>
+      <Title subTitle="Visitor's Feedback" title='What Students Says'/>
       <Testimonials/>
       <Title subTitle='Contact Us' title='Get in Touch'/>
       <Contact/>

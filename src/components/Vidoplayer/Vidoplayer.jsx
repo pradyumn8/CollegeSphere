@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import './Vidoplayer.css'
-import video from '../../assets/clg-video.mp4'
+import video from '../../assets/lib-video.mp4'
 
 const Vidoplayer = ({playState,setPlayState}) => {
     const player = useRef(null);
