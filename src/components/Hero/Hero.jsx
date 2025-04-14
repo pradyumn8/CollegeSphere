@@ -11,8 +11,8 @@ const Hero = () => {
         initial={{ opacity: 0, y: 100 }}
         transition={{ duration: 1.5 }}
         whileInView={{ opacity: 1, y: 0 }} className="hero-text">
-        <h1>Creating a Peaceful and Inspiring Reading Environment.</h1>
-        <p>We offer a quiet, comfortable space where readers can focus, learn, and immerse themselves in the world of books without distractions.</p>
+        <h1>We provide quality education to build a better world.</h1>
+        <p>Our innovative curriculum equips students with the knowledge, skills, and hands-on experiences essential for success in the ever-evolving field of education.</p>
         <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
       </motion.div>
     </div>

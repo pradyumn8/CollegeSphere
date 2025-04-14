@@ -59,45 +59,36 @@
 
 /* -------------------------Media Query--------------------- */
 @media (max-width: 800px) {
-    .testimonials {
+    .testimonials{
         padding: 0 40px;
     }
-    .next-btn, .back-btn {
+    .next-btn, .back-btn{
         padding: 10px;
         width: 35px;
     }
-    .testimonials ul {
-        width: 400%; /* Ensure all slides fit */
-    }
-    .testimonials ul li {
-        width: 100%; /* Show only one slide at a time */
+    .testimonials ul li{
         padding: 10px;
     }
-    .slide {
+    .slide{
         padding: 10px;
     }
-    .slide img {
+    .slide img{
         width: 50px;
         border: 3px solid #212ea0;
     }
 }
 
+
 @media (max-width: 600px) {
-    .user-info {
+    .user-info{
         display: block;
         margin-bottom: 10px;
         font-size: 12px;
     }
-    .user-info h3 {
+    .user-info h3{
         font-size: 16px;
     }
-    .slider p {
+    .slider p{
         font-size: 12px;
-    }
-    .slider ul {
-        width: 400%; /* Ensures all testimonials fit */
-    }
-    .slider ul li {
-        width: 100%; /* Only one testimonial visible */
     }
 }

@@ -11,9 +11,8 @@
     display: inline-block;
     margin-left: 20px;
 }
-.link:hover{
-    text-decoration: underline;
-}
+
+
 
 /* -------------------------Media Query--------------------- */
 @media (max-width: 600px) {
