@@ -2,15 +2,11 @@
 
 **CollegeSphere** is a modern, responsive web platform that provides students with a centralized space to explore college-related resources, activities, and announcements. Built with React and animated with Framer Motion, it offers a smooth and engaging user experience.
 
-## 🌐 Live Demo
+## 🌐 Live Demo & GitHub
 
-🔗 [Visit CollegeSphere](https://collegesphare.netlify.app/)
+🔗 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green)](https://collegesphare.netlify.app/)
+🔗 [![GitHub Repo](https://img.shields.io/badge/GitHub-CollegeSphere-blue?logo=github)](https://github.com/pradyumn8/CollegeSphere.git)
 
-## 📂 GitHub Repository
-
-🔗 [View on GitHub](https://github.com/pradyumn8/CollegeSphere.git)
-
----
 
 ## 🛠 Tech Stack
 
